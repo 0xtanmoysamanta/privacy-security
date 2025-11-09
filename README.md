@@ -344,13 +344,3 @@ Content in this README is available under CC BY 4.0 unless stated otherwise.
 
 ---
 
-Badges (optional)
-
-Add these to the top once you wire them up:
-
-![Security Policy](https://img.shields.io/badge/security-policy-blue)
-![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-informational)
-![SLSA](https://img.shields.io/badge/SLSA-2-brightgreen)
-![PQ‑Ready](https://img.shields.io/badge/Post‑Quantum-Ready-forestgreen)
-
-I’ve drafted a clean, drop-in GitHub README template for “Privacy, Security & Quantum Threats” in the canvas. Tweak org/project names and keep/delete sections as you like. Want me to add pre-commit hook examples, CI snippets (e.g., secret scan + SBOM), or PQ-hybrid TLS config next?
